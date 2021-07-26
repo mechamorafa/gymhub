@@ -1,6 +1,10 @@
 -> User Registration
 --> Profile Page
 --> User Settings Page
+--> Personal Records Page
+---> View PRs
+---> Add PR
+---> Update PR
 -> Authentication methods
 -> Session 
 -> Available slots
